@@ -1,0 +1,8 @@
+#FTP config文件
+ftp:
+  url: 127.0.0.1
+  port: 21
+  username: andy
+  pwd: 123456
+  chinese: 张三
+

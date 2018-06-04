@@ -1,0 +1,20 @@
+# 复杂的 YML 配置文件
+complex:
+  name: Andy         # String
+  luckNum: 3,7,11,16 # Array
+  fullNameMapList:   # List Map
+    - name: 李
+      value: 清照
+    - name: 王
+      value: 勃
+    - name: 杜甫
+      value: 甫
+  henanCityList:      # List
+    - 河南
+    - 平顶山
+    - 汝州
+    - 小屯
+    - 李湾
+  workplaceMap:       # Map
+    1: 远卓
+    2: 长虹佳华
