@@ -1,4 +1,4 @@
-springboot02 学习
+springboot02 学习--自定义属性文件
 ================================
 springboot 版本：2.0.2.RELEASE
 
